@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 202brigthn3-10-24
 type: landing
 
 design:
@@ -36,7 +36,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background-colour.jpg
           filters:
-            brightness: 1.5
+            brightness: 0.75
   - block: stats
     content:
       items:
