@@ -31,10 +31,10 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "green"
+        color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: CaribDatalogo.png
           filters:
             brightness: 0.5
   - block: stats
