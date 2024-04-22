@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: CaribDatalogo.png
+          filename: logo-d89c60-desertsun.jpg
           filters:
             brightness: 0.5
   - block: stats
