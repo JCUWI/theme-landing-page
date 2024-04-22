@@ -29,14 +29,14 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "light"
+      css_class: "dark"
       background:
-        color: "linen"
+        color: "navy"
         image:
           # Add your image background to `assets/media/`.
           filename: background-colour.jpg
           filters:
-            brightness: 0.5
+            brightness: 1.5
   - block: stats
     content:
       items:
