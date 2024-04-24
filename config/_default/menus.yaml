@@ -13,7 +13,7 @@ main:
     url: /#solutions
     weight: 30
   - name: IDB
-    url: /#idb
+    url: idb/
     weight: 40
   - name: Resources
     weight: 50
