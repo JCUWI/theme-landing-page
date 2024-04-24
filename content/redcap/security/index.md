@@ -3,6 +3,7 @@ title: What security does REDCap have?
 summary: 
 date: 2024-04-24
 
+---
 
 Please search using the word 'security' in the Help & FAQ section of your REDCap project.
 
