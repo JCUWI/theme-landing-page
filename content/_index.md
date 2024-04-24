@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 202brigthn3-10-24
+date: 2023-10-24
 type: landing
 
 design:
@@ -27,16 +27,16 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+        margin: [0, 0, 0, 5]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      css_class: "light"
       background:
-        color: "navy"
+        color: "white"
         image:
           # Add your image background to `assets/media/`.
           filename: background-logo.jpg
           filters:
-            brightness: 0.75
+            brightness: 0.5
   - block: stats
     content:
       items:
