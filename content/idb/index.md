@@ -1,13 +1,10 @@
 ---
-title: IDB
-summary: Surveillance
-date: 2021-09-10
-authors:
-  - admin
-tags:
-  - IDB
+title: 
+summary: 
+date: 
 
-reading_time: true    # Show estimated reading time?
+
+reading_time: false    # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
@@ -33,9 +30,9 @@ You can access full details and follow progress of the award [on the IDB project
 
 The CaribData project objectives are to build a Caribbean infrastructure for regional data sharing, provide training and mentoring to increase the regional data handling capacity, and encourage the sharing of data through a communication program that includes data stories and analysis datathons. 
 
-{{</* spoiler text="**The growing global importance of data resources**" */>}}
+{{< spoiler text="**The growing global importance of data resources**" >}}
 In 2010, the world generated approximately 2 Zettabytes (ZB) of digital information. In 2020, the World Economic Forum suggested that this figure had risen to 44 ZB and estimates for 2024 are in the region of 150 ZB. This data is enabling emerging digital technologies – such as Artificial Intelligence (AI), Internet of Things (IoT), Early Warning Systems (EWS), and blockchain-based applications. Digital data has become a multibillion-dollar industry with immense growth opportunities. Despite the importance of data, the Caribbean region has limited quality data to contribute to the development of such technologies. Similar to biases inherent in early technologies due to insufficient data from underrepresented communities (for instance, facial recognition technology in its early stages did not recognize certain complexions and in the design of voice recognition, high pitch voices, mostly associated with women, were not recognized), the Caribbean region needs representative data. One avenue for pursuing this is to drive dialogue for increasing efforts to design and integrate data infrastructure and data sharing policies. Furthermore, concerns over privacy and digital skills capacity remain.
-{{</* /spoiler */>}}
+{{< /spoiler >}}
 
 {{</* spoiler text="**Data Availability is a Social Inequity**" */>}}
 According to the Open Data Watch, the Caribbean’s data-availability performance in 2020 averaged 39%, against a European average of 65%. The paucity of data in the Caribbean has an impact on everything from disaster risk reduction to climate resiliency to business development to citizen health and security. Existing data in the Caribbean region, such as administrative data, is hard to access, lacks adequate data infrastructure, is in multiple places with weak data sharing protocols, and suffers from quality issues due to inadequate data handling. Cloud storage is costly, there are weak incentives for data sharing, and regulatory protocols gate-keep sensitive data without offering avenues for controlled access. Public institutions are regularly unable to meet the data security demands of recent national data security regulations, which share many similarities with the European Union General Data Protection Regulations (GDPR).
