@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: 
-      text: 🧱 An Ecosystem for Caribbean Data Sharing  🧱
+    #  text: 🧱 An Ecosystem for Caribbean Data Sharing  🧱
     #  primary_action:
     #    text: Get Started
     #    url: https://hugoblox.com/templates/
