@@ -10,20 +10,20 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      title: 
+      text: 🧱 An Ecosystem for Caribbean Data Sharing  🧱
+    #  primary_action:
+    #    text: Get Started
+    #    url: https://hugoblox.com/templates/
+    #    icon: rocket-launch
+    #  secondary_action:
+    #    text: Read the docs
+    #    url: https://docs.hugoblox.com
+    #  announcement:
+    #    text: "Announcing the release of version 1."
+    #    link:
+    #      text: "Read more"
+    #      url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,9 +34,9 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: background-logo-text.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.75
   - block: stats
     content:
       items:
