@@ -16,22 +16,20 @@ main:
     url: idb/
     weight: 40
   - name: REDCap
-    url: redcap/
     weight: 50
     hasChildren: true
-    identifier: redcap
-  - name: Get-Started
+  - parent: REDCap
+    name: Get-Started
     url: get-started/
     weight: 51
-    parent: redcap
-  - name: Citation
+  - parent: REDCap
+    name: Citation
     url: citation/
     weight: 52
-    parent: redcap
-  - name: Security
+  - parent: REDCap
+    name: Security
     url: security/
     weight: 53
-    parent: redcap
   - name: Resources
     weight: 60
     hasChildren: true
