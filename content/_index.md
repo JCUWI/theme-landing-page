@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: CaribData
+    #  title: CaribData
       text: 🧱 An Ecosystem for Caribbean Data Sharing  🧱
       # primary_action:
         # text: Get Started
@@ -27,16 +27,16 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-        margin: [10, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: background-logo.jpg
+          filename: background-logo-text.jpg
           filters:
-            brightness: 0.6
+            brightness: 0.75
   - block: stats
     content:
       items:
