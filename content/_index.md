@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: 
+    #  title: 
     #  text: 🧱 An Ecosystem for Caribbean Data Sharing  🧱
     #  primary_action:
     #    text: Get Started
