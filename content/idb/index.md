@@ -62,5 +62,7 @@ The project objectives are to improve the infrastructure for data sharing and da
 The CaribData project will be operated by The University of the West Indies (The UWI). For over seven decades, The UWI has provided regional and international service and leadership. Starting as a university college of London in Jamaica with 33 medical students in 1948, The UWI has evolved into an internationally respected University with near 50,000 students and 5 campuses. One of only two regional universities in the world, The UWI extends from Belize in Central America to Trinidad and Tobago in the southern Caribbean.
 
 {{%/* callout note */%}}
-{{% ref "static/uploads/UWI-IDB-CaribData-flyer3.pdf" %}}Download {{% /ref %}}the CaribData information flyer for more details.
+  - text: Download teh CaribData information flyer for more details.
+    url: uploads/UWI-IDB-CaribData-flyer3.pdf
+    label: Download my flyer
 {{%/* /callout */%}}
