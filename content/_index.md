@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: background-colour.jpg
+          filename: background-logo.jpg
           filters:
             brightness: 0.75
   - block: stats
