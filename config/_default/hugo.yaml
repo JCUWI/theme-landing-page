@@ -15,8 +15,6 @@ cascade:
   - _target:
       path: /blog/**
       kind: page
-      path: /idb/**
-      kind: page
     pager: true
     editable: true
     hide_date: false
@@ -33,8 +31,6 @@ cascade:
   # Blog section options
   - _target:
       path: /blog/*
-      kind: section
-      path: /idb/*
       kind: section
     # Set the listing view
     view: date-title-summary
@@ -63,6 +59,81 @@ cascade:
       kind: section
     # Set the listing view
     # view: date-title-summary
+
+cascade:
+  # REDCap Get-Started post options
+  - _target:
+      path: /get-started/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on REDCap post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Get-Started section options
+  - _target:
+      path: /get-started/*
+      kind: section
+    # Set the listing view
+    view: date-title-summary
+
+cascade:
+  # REDCap Citation post options
+  - _target:
+      path: /citation/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on REDCap post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Citation section options
+  - _target:
+      path: /citation/*
+      kind: section
+    # Set the listing view
+    view: date-title-summary
+
+cascade:
+  # REDCap Security post options
+  - _target:
+      path: /security/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on REDCap post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Security section options
+  - _target:
+      path: /security/*
+      kind: section
+    # Set the listing view
+    view: date-title-summary
 
 ############################
 ## LANGUAGE

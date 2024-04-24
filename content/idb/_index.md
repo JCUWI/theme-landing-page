@@ -1,7 +1,7 @@
 ---
 title: 
-summary: 
-date: 
+summary: Fundings
+date: 2024-04-24
 
 
 reading_time: false    # Show estimated reading time?
