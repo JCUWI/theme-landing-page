@@ -36,6 +36,31 @@ cascade:
     view: date-title-summary
 
 cascade:
+  # CaribData options
+  - _target:
+      path: /caribdata/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: true
+    show_date_updated: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on caribdata post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: false
+  # CaribData section options
+  - _target:
+      path: /caribdata/*
+      kind: section
+    # Set the listing view
+    # view: date-title-summary
+
+cascade:
   # IDB options
   - _target:
       path: /idb/**

@@ -1,6 +1,6 @@
 ---
 title: 
-summary: Fundings
+summary: Funding
 date: 2024-04-24
 
 
