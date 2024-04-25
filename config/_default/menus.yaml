@@ -6,32 +6,35 @@ main:
   - name: Home
     url: /#top
     weight: 10
+  - name: CaribData
+    url: caribdata/
+    weight: 20
   - name: Features
     url: /#features
-    weight: 20
+    weight: 30
   - name: Solutions
     url: /#solutions
-    weight: 30
+    weight: 40
   - name: IDB
     url: idb/
-    weight: 40
-  - name: REDCap
     weight: 50
+  - name: REDCap
+    weight: 60
     hasChildren: true
   - parent: REDCap
     name: Get-Started
     url: get-started/
-    weight: 51
+    weight: 61
   - parent: REDCap
     name: Citation
     url: citation/
-    weight: 52
+    weight: 62
   - parent: REDCap
     name: Security
     url: security/
-    weight: 53
+    weight: 63
   - name: Resources
-    weight: 60
+    weight: 70
     hasChildren: true
   - parent: Resources
     name: Blog
