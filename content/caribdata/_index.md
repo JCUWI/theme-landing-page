@@ -33,7 +33,7 @@ url_video: ""
 #### Developing an Ecosystem for Caribbean Data-Driven Resilience 
 
 {{% callout note %}}
-[Download](/content/caribdata/UWI-IDB-CaribData-flyer3.pdf) the CaribData information flyer for a 1-page project summary
+[Download](UWI-IDB-CaribData-flyer3.pdf) the CaribData information flyer for a 1-page project summary
 {{% /callout %}}
 
 The amount of data generated from the world around us has reached levels that were previously unimaginable. Total global data storage is projected to exceed 200 zettabytes by 2025, and COVID-19 has expanded engagement in the digital economy and further accelerated data creation. This data is enabling emerging digital technologies – such as Artificial Intelligence, Internet of Things, and blockchain-based applications. Open-data is recognized as a critical tool for social and environmental good, yet there has been insufficient efforts to design and integrate data infrastructure and open-data sharing practices to contribute to resiliency at the regional level. Furthermore, privacy concerns, infrastructure maintenance, and data handling capacity remain significant obstacles to the generation and use of quality data in the Caribbean. 
@@ -41,5 +41,5 @@ The amount of data generated from the world around us has reached levels that we
 The CaribData project objectives are to build a Caribbean infrastructure for regional data sharing, provide training and mentoring to increase the regional data handling capacity, and encourage the sharing of data through a communication program that includes data stories and analysis datathons. 
 
 {{% callout note %}}
-You can access more project details[on our dedicated page](/content/idb/)
+You can access more project details[on our dedicated page](https://main--caribdata.netlify.app/idb/)
 {{% /callout %}}
